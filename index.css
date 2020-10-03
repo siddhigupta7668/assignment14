@@ -1,0 +1,31 @@
+body{
+    border-width: ;
+    border-style: double;
+border-width: thick;
+border-color: #00ffbb;
+border-width: 30px 30px;
+
+}
+
+.h3 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.p1 {
+    border-color: darkgreen;
+    border-top-style:double ;
+    border-bottom-style:double ;
+}
+
+body img {
+    
+    border-color: blue;
+    border-style:dashed ;
+    border-width: thick ;
+    
+}
+
+.div1 {
+    text-align: center;
+}
